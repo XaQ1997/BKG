@@ -13,3 +13,8 @@ Znalezione błędy:
 
 v0.0.0b
 Naprawiono błąd #0.0
+
+v0.0.1a
+Dodano blok ziemi
+Dodano możliwość zapauzowania gry i jej wznowienia
+Zmienono reprezentację gry z pełnego ekranu na okienko
