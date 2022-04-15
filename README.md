@@ -18,3 +18,9 @@ v0.0.1a
 Dodano blok ziemi
 Dodano możliwość zapauzowania gry i jej wznowienia
 Zmieniono reprezentację gry z pełnego ekranu na okienko
+Przeskalowano prędkość poruszania się i czułości myszy
+
+v0.0.1b
+Dodano blok powietrza
+Dodano fizyczną postać gracza
+Zmieniono system tworzenia się bloków (w tym dodano mapę bloków)
