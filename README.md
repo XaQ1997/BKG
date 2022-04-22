@@ -36,5 +36,5 @@ Zmieniono id wszystkich bloków poza powietrzem (id kamienia zmieniło się z 10
 Podwyższono mapę z wysokości 64 na 128
 
 Znalezione błędy:
-$2.0 Reset mapy nie resetuje mapy
-$2.1 Budowanie jest trochę zbugowane
+$1.1 Reset mapy nie resetuje mapy
+$1.2 Budowanie jest trochę zbugowane
