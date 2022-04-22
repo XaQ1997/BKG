@@ -33,6 +33,8 @@ Wprowadzono mechaniki budowania i niszczenia w grze
 Dodano opcję powrotu gracza na miejsce spawnu (pod klawiszem K) oraz resetu mapy (pod klawiszem R)
 Zmieniono tworzenie się mapy bloków
 Zmieniono id wszystkich bloków poza powietrzem (id kamienia zmieniło się z 10 na 20, ziemi, z 21 na 31, a bloku trawy z 20 na 30)
+Podwyższono mapę z wysokości 64 na 128
 
 Znalezione błędy:
 $2.0 Reset mapy nie resetuje mapy
+$2.1 Budowanie jest trochę zbugowane
