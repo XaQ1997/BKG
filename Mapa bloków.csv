@@ -1,5 +1,5 @@
 id;name
 02;air
-10;stone
-20;grass block
-21;dirt
+20;stone
+30;grass block
+31;dirt
