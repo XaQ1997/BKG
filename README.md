@@ -38,3 +38,7 @@ Podwyższono mapę z wysokości 64 na 128
 Znalezione błędy:
 $1.1 Reset mapy nie resetuje mapy
 $1.2 Budowanie jest trochę zbugowane
+
+v0.0.1d
+Naprawiono błędy $1.0 i $1.2
+Tymczasowo zlikwidowano możliwość resetu mapy (Zostało to przeniesione na wersje v0.0.2, w których powstaną podstawy zapisu gry).
