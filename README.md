@@ -41,4 +41,4 @@ $1.2 Budowanie jest trochę zbugowane
 
 v0.0.1d
 Naprawiono błędy $1.0 i $1.2
-Tymczasowo zlikwidowano możliwość resetu mapy (Zostało to przeniesione na wersje v0.0.2, w których powstaną podstawy zapisu gry).
+Tymczasowo zlikwidowano możliwość resetu mapy.
