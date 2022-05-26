@@ -12,7 +12,7 @@ Znalezione błędy:
 $0.0 Rotacja kamerą obejmuje też 3 oś, co powoduje, że operacja ta na kamerze przypomina imersją podróż przez ocean
 
 v0.0.0b
-Naprawiono błąd #0.0
+Naprawiono błąd $0.0
 
 v0.0.1a
 Dodano blok ziemi
