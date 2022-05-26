@@ -5,7 +5,7 @@ CHANGELOG
 v0.0.0a
 Dodano 2 bloki: kamień i blok trawy
 Dodano podstawowe sterowanie kamerą (rotacja kamerą przesuwając myszą, chodzenie WASD, Q oznacza zejście w dół dla trybu kreatywnego, E oznacza wejście w górę dla trybu kreatywnego (nie, nie, nie jest to skok)
-Dodano tryb kreatywny
+Dodano tryb obserwatora
 Mapa jest wielkości 32 bloków na 64 bloki na 32 bloki typu superpłaskiego
 
 Znalezione błędy:
