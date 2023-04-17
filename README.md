@@ -60,3 +60,12 @@ Dodano cieniowanie.
 
 Znalezione błędy:
 $2.0 Nie widać wewnętrznego kursora
+
+v0.0.3a
+Dodaje menu pauzy wraz z interaktywnymi przyciskami wznowienia gry, resetu mapy oraz wyjścia z gry oraz z niewłączonym jeszcze przyciskiem włączającym menu ustawień sterowania.
+Usunięto na stałe możliwość resetu mapy przy użyciu klawisza R (zastąpiono go przyciskiem resetu mapy w menu pauzy).
+Naprawiono błąd $2.0
+Dodano pasek szybkiego wyboru (na razie wyłącznie jako grafika, bo są jakieś problemy z znalezieniem elementów tego paska przez skrypt w trakcie budowy oraz przesuwania scrollem myszy po nim)
+
+Znalezione błędy:
+$3.0 Nie działa przycisk wyjścia z gry
