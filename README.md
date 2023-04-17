@@ -57,3 +57,6 @@ Dodano kruszony kamień.
 Dodano wewnętrzny kursor.
 Dodano zaznaczenie bloków.
 Dodano cieniowanie.
+
+Znalezione błędy:
+$2.0 Nie widać wewnętrznego kursora
