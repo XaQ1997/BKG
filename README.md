@@ -50,3 +50,10 @@ v0.0.1e
 Przywrócono reset mapy
 Naprawiono błąd $1.1
 Dodano skałę macierzystą
+
+v0.0.2a
+Tekstury są niejednolite.
+Dodano kruszony kamień.
+Dodano wewnętrzny kursor.
+Dodano zaznaczenie bloków.
+Dodano cieniowanie.
