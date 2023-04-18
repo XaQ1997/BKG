@@ -69,3 +69,9 @@ Dodano pasek szybkiego wyboru (na razie wyłącznie jako grafika, bo są jakieś
 
 Znalezione błędy:
 $3.0 Nie działa przycisk wyjścia z gry
+
+v0.0.3b
+Naprawiono błąd $3.0 oraz pasek szybkiego wyboru (jest już w pełni funkcjonalna)
+Jest możliwość wyboru bloku, którym się buduje
+Zepsuto menu pauzy oraz sterowania (które dodano w tej wersji)
+Dodano bloki: cegieł oraz szkła
